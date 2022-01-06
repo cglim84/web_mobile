@@ -1,0 +1,42 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+album_E7D74C85_E98F_3B88_41E5_DF7A113EC327.label = Photo Album 20210124_183657
+album_E7D74C85_E98F_3B88_41E5_DF7A113EC327_0.label = 20210124_183657
+panorama_E48857A4_E998_F58F_41EB_36A409330E23.label = cam12_Stitch_XHC
+panorama_E4888AF9_E999_1F78_41C2_51B042543E5A.label = cam14_Stitch_XHC
+panorama_E488B494_E999_2B88_41EC_A866CD3D0191.label = cam15_Stitch_XHC
+panorama_E488D829_E999_1A98_41D9_6AFAEA180777.label = cam17_Stitch_XHC
+panorama_E48901B8_E999_6DF8_41E6_628BF9ABE478.label = cam18_Stitch_XHC
+panorama_E4892E25_E999_3688_41E7_A35D389B81D2.label = cam16_Stitch_XHC
+panorama_E4894B63_E999_7E88_4192_5E07FED18114.label = cam19_Stitch_XHC
+panorama_E489A917_E999_3A89_41EA_92DB88C2E3D1.label = cam22_Stitch_XHC
+panorama_E489BD46_E999_1A88_41DE_56C4CE467C5E.label = cam24_Stitch_XHC
+panorama_E489C56D_E999_6A98_41B1_B97B4ABD555C.label = cam20_Stitch_XHC
+panorama_E489DF5C_E999_16BF_41E3_8A0262AC8E30.label = cam21_Stitch_XHC
+panorama_E495F682_E987_3788_41D5_428B7038807B.label = cam02_Stitch_XHC
+panorama_E498042D_E987_2A98_41E6_842F134DC0F4.label = cam10_Stitch_XHC
+panorama_E4981E34_E987_168F_41E6_1EECF0AFEE3F.label = cam11_Stitch_XHC
+panorama_E498207C_E987_2B78_41AD_85A2892C319F.label = cam08_Stitch_XHC
+panorama_E4983A8F_E987_3F99_41B0_2D46231F1040.label = cam09_Stitch_XHC
+panorama_E4986CFA_E987_7B78_41CF_4479CEFC1BDC.label = cam06_Stitch_XHC
+panorama_E49899C9_E987_1D99_41EA_0C4C86B930F0.label = cam04_Stitch_XHC
+panorama_E498A68F_E987_1799_41EA_DD0E98C968CC.label = cam07_Stitch_XHC
+panorama_E499604B_E987_2A99_41B2_E75DCF6D50B5.label = cam03_Stitch_XHC
+panorama_E7E07D37_E987_1A88_41D8_536EC129B1FA.label = cam01_Stitch_XHC
+video_E77CA5CD_E98B_1598_41E0_BA2CDA0B22B9.label = sample_video
